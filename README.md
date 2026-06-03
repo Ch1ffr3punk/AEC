@@ -1,23 +1,23 @@
-## AEC - Air Gapped Encrypted Communications  
+# AEC - Air Gapped Encrypted Communications  
 
 AEC is an easy to use GUI program, allowing  
 you to securely communicate with the help  
 of an air gapped PC and a Webcam to your  
 online PC.  
 
-# Creating a NaClbox key pair with Init  
+## Creating a NaClbox key pair with Init  
 
 ![AEC](img/1.png)
 
-# Capturing the QR-Code  
+## Capturing the QR-Code  
 
 ![AEC](img/2.png)
 
-# Recovering the QR-Code  
+## Recovering the QR-Code  
 
 ![AEC](img/3.png)
 
-# Final result  
+## Final result  
 
 ![AEC](img/4.png)
 
