@@ -5,7 +5,7 @@ you to securely communicate with the help
 of an air gapped PC and a Webcam to your  
 online PC.  
 
-# Creating a NaClbox key pair  
+# Creating a NaClbox key pair with Init  
 
 ![AEC](img/1.png)
 
@@ -22,10 +22,10 @@ online PC.
 ![AEC](img/4.png)
 
 As you can see, you always have to use the  
-Revover button once your camera captured  
+Recover button once your camera captured  
 the QR-Code.
 
-For sendin AEC QR-Codes as emails, I highly
+For sending AEC QR-Codes as emails, I highly
 recommend to use the [Hermes Nym Mixnet email Gateway](https://n2m.oc2mx.net).
 
 NaClbox is used for public key encryption.  
