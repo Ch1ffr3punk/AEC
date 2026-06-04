@@ -25,6 +25,9 @@ As you can see, you always have to use the
 Recover button once your camera captured  
 the QR-Code.
 
+For capturing AEC QR-Codes with an Android smartphone  
+I have included GL2AEC (Google Lens to AEC).  
+
 For sending AEC QR-Codes as emails, I highly
 recommend to use the [Hermes Nym Mixnet email Gateway](https://n2m.oc2mx.net).
 
