@@ -629,7 +629,10 @@ func (a *AECApp) updateCharCount() {
 func (a *AECApp) clearText() {
 	a.textArea.SetText("")
 	a.updateCharCount()
-	a.statusLabel.SetText("Text cleared")
+
+	a.window.Clipboard().SetContent("")
+	
+	a.statusLabel.SetText("Text and clipboard cleared")
 }
 
 func (a *AECApp) toggleTheme() {
