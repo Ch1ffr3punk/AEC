@@ -26,7 +26,16 @@ Recover button once your camera captured
 the QR-Code.
 
 For capturing AEC QR-Codes with an Android smartphone  
-I have included GL2AEC (Google Lens to AEC).  
+I have included GL2AEC (Google Lens to AEC).
+
+E2Q is useful if you send AEC messages to the  
+Usenet Newsgroup alt.anonymous.messages, as it  
+creates esub QR-Codes, which can be on Android  
+decoded as Subject: esub string.  
+
+Fetch can be used on Android to retrieve anonymously  
+articles from alt.anonymous.messages, when the esub
+key (password) is provided.    
 
 For sending AEC QR-Codes as emails, I highly
 recommend to use the [Hermes Nym Mixnet email Gateway](https://n2m.oc2mx.net).

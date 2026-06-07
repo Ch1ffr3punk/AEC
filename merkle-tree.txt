@@ -1,6 +1,19 @@
 --- FILE HASHES (RIPEMD-160) ---
 AEC.go: e3400e792f0bb39ebf380921c371094c202250d0
 AEC.png: 7fd9b16438e49379d08686811b1e1fe7a32bbfb9
+E2Q\E2Q.go: 7dafd1d0faefa6f74f0e86be3ed84fd18e604882
+E2Q\E2Q.png: 7fd9b16438e49379d08686811b1e1fe7a32bbfb9
+E2Q\LabGrotesque-Bold.ttf: b99c6670abf08cbcb148216c6ba0ad291c1fda1a
+E2Q\bundle_font.go: 34439dd7ea34d8ae8f157cec11ab630e9dc70a68
+E2Q\go.mod: 1f9ad7a83da63b6249a1a09b645640d1b58089c0
+E2Q\go.sum: b64281293199b3ab8460763e472e9a76a218ab9d
+Fetch\Fetch.go: b93da4d1df27f94d4c9e50c97424ab1fca5e195a
+Fetch\Fetch.png: 7fd9b16438e49379d08686811b1e1fe7a32bbfb9
+Fetch\LabGrotesque-Bold.ttf: b99c6670abf08cbcb148216c6ba0ad291c1fda1a
+Fetch\bundle_font.go: 34439dd7ea34d8ae8f157cec11ab630e9dc70a68
+Fetch\go.mod: 6bfb2710d1c4c2a4ab0c118d45b3fcd12d6db4c5
+Fetch\go.sum: 00d55c4619d35d5f1158d1a76bb70375dde06d96
+Fetch\nntp_config.json: 3e4d06c10749ccdd95770c744a9e8fbe4ffe84a0
 GL2AEC\GL2AEC.go: 8b41eaad2c81e623a9e99a724d3b16cd528b5c45
 GL2AEC\GL2AEC.png: 7fd9b16438e49379d08686811b1e1fe7a32bbfb9
 GL2AEC\LabGrotesque-Bold.ttf: b99c6670abf08cbcb148216c6ba0ad291c1fda1a
@@ -9,7 +22,7 @@ GL2AEC\go.mod: e665a9ad33fbecce71205eb84032821e2e44213f
 GL2AEC\go.sum: e6622ae7d3963cc67e46acc31d33d3e4e6d6a9b7
 LICENSE: 304c26c26e8af4d60f1e0818baa73f8ac9b511fd
 LabGrotesque-Bold.ttf: b99c6670abf08cbcb148216c6ba0ad291c1fda1a
-README.md: 89a7d426b3072979b7cae06e029580c47d7c8ae4
+README.md: 734598a5346080caea42fcfed07dd407cc005a5f
 bundle_font.go: 34439dd7ea34d8ae8f157cec11ab630e9dc70a68
 go.mod: 1b2be6b9c14acd878782c74c86a11a226b41059a
 go.sum: 6889797c44189fd6d221377161aa89fbad7b755e
@@ -19,4 +32,4 @@ img\3.png: 81c45f995fa59236ca02c6188a8e0bb54d6b4e1f
 img\4.png: 24d1106cf2dbb3e7266b77f4064425546c646541
 
 --- ROOT HASH (RIPEMD-160) ---
-6585bbed4181c0ea723b4f2a88828734d247f5d7
+d22d0d51a108ed919175ee33ffd36005b3d55d3c
